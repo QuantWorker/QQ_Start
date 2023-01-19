@@ -1,5 +1,7 @@
-# Welcome to GitHub Desktop!
+This is a Agent QQ start, skips update.
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+System Environment:
+Windows 11 + .Net Framework 4.7.2
+--------------------------------------------
+代理QQ啟動，會略過軟體強迫更新的小程式
+由於不想啟動QQ被強迫更新，所以寫了此程式自用
